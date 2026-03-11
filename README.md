@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mastaan66" alt="mastaan66" /></a> </p>
 
-- 🔭 I’m currently working on [Evidence Protection System](https://github.com/mastaan66/Evidence-Protection-System)
-
-- 🌱 I’m currently learning **Machine Learning, Block Chain, Web Development**
+- 🌱 I’m currently learning **MCP, AI Agents, Machine Learning, Block Chain, Web Development**
 
 - 📫 How to reach me **mastaanshaik37@gmail.com**
 
