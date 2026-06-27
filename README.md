@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sk Mastan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mastaan66&label=Profile%20views&color=0e75b6&style=flat" alt="mastaan66" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mastaan66&label=Profile%20views&color=0e75b6&style=flat" alt="mastaan66" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mastaan66" alt="mastaan66" /></a> </p>
 
