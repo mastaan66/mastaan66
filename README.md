@@ -1,4 +1,4 @@
-### Hi there
+### Hi there 👋
 
 I'm a backend and systems developer.
 
