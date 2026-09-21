@@ -25,3 +25,4 @@
 [multi-agent-coding-tool]: https://github.com/mastaan66/multi-agent-coding-tool
 [data-highway]: https://github.com/mastaan66/data-highway
 [margin-notes-for-pdf]: https://github.com/mastaan66/margin-notes-for-pdf
+[SHUCHI]: https://github.com/mastaan66/shuchi
