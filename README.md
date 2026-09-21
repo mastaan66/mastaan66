@@ -14,6 +14,7 @@
 
 **Tools**:
 - [margin-notes-for-pdf]: Browser extension for PDFs with per page notes and stylus handwriting. (2026)
+- [SHUCHI]: Open-source air-gapped USB sanitisation kiosk with TPM 2.0 audit trail. (2026)
 
 <a href="https://github.com/mastaan66/foreman"><img src="assets/sketch-foreman.svg" width="100%" alt="Hand-drawn sketch: a director writes tickets for a lead, who hands work to coder, tester, drone and librarian agents under a budget gate."></a>
 
